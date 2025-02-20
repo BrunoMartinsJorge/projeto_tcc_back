@@ -1,2 +1,2 @@
-# projeto_tcc_back
-Local destinado para os testes do meu TCC
+# back_projeto_tcc
+Local para salvar um projeto em Java de testes para meu TCC
